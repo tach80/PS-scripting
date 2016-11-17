@@ -68,7 +68,7 @@ PLAGIARISM AND CODE REUSAL
 
 I learned how to script thanks to a lot of anonymous programmers. Sometimes, I reused code from others
 and sometimes I adapted it to fulfill an specific task. Other times, they gave me the point I needed
-to get to the solution. Thanks to all of you.
+to get to the solution. Thanks to all of you, wherever you are.
 
 I think that the fair thing is to give everyone its share. I wrote down each and every line of the code
 I uploaded. But you may think 'Hey, this guy is uploading some of my code'. In that case, let me know
@@ -79,7 +79,7 @@ link directly to your code folder.
 
 CONTACT
 
-No contact data is available at the moment.
+Contact me using my profile email. I read it everyday.
 
 
 DISCLAIMER
@@ -87,8 +87,8 @@ DISCLAIMER
 I'm not a developer, just an IT support looking for faster deployment techniques and automating
 tasks outside a domain network.
 
-This code is not intended for direct deployment (each machine si different), so read it first and
-make a couple tries before deployment. Some of them could be rather destroying if used incorrectly
+This code is not intended for direct deployment (each machine and OS si different), so read it first
+and make a couple tries before deployment. Some of them could be rather destroying if used incorrectly
 (the kind of destruction crackers love).
 
 So, let's make this clear:
@@ -96,5 +96,4 @@ So, let's make this clear:
 This code is provided "as is", with no warranty either implicit or explicit. You run it at your own
 risk, and I may not be liable for any damage it could make to your devices. You have been warned.
 
-Personal note: if you are such a fool to run other-people code without first having a look at it,
-you deserve whatever harm it could make to you.
+Personal note: if you run other-people code without first having a look at it, you are playing with fire.
