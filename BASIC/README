@@ -1,1 +1,9 @@
 Basic readme for basic scripts
+
+SYSPREP_CHECKER
+
+Not a very advanced one, but interestingin any case. How many times have you asked yourself 'hey, is this OS a clean install
+or a (lazy IT tech work)* clone'?
+
+In case you asked, you can find out running this piece of code. It looks on the registry for some specific keys, created by
+the sysprep process when it runs to create the image for cloning.
