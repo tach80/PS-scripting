@@ -8,7 +8,11 @@ OS a clean install or a (lazy* IT tech work) clone'?
 In case you asked, you can find out running this piece of code. It looks on the registry for some specific
 keys, created by the sysprep process when it runs to create the image for cloning.
 
+CIPHER
 
+Another simple script, that converts characters and symbols into their ASCII number, and splits lines each
+8 characters. A very basic encryption, but I'm more interested in the conversion and simple formatting than
+in long, complicated algorithms.
 
 
 
