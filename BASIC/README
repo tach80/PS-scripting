@@ -2,25 +2,18 @@ Readme for basic scripts
 
 SYSPREP_CHECKER
 
-Not a very advanced one, but interesting in any case. How many times have you asked yourself 'hey, is this
-OS a clean install or a (lazy* IT tech work) clone'?
+Not a very advanced one, but interesting in any case. How many times have you asked yourself 'hey, is this OS a clean install or a (lazy* IT tech work) clone'?
 
-In case you asked, you can find out running this piece of code. It looks on the registry for some specific
-keys, created by the sysprep process when it runs to create the image for cloning.
+In case you asked, you can find out running this piece of code. It looks on the registry for some specific keys, created by the sysprep process when it runs to create the image for cloning.
 
 CIPHER
 
-Another simple script, that converts characters and symbols into their ASCII number, and splits lines each
-8 characters. A very basic encryption, but I'm more interested in the conversion and simple formatting than
-in long, complicated algorithms.
+Another simple script, that converts characters and symbols into their ASCII number, and splits lines each 8 characters. A very basic encryption, but I'm more interested in the conversion and simple formatting than in long, complicated algorithms.
 
 NAME_GETTER
 
-A very simple script, designed specifically for users. It takes the folder where it is and writes down file
-names without extensions to a file. This one is part of an administrative and billing process, but it can be
-easily repurposed for automatic checks of specific folders and files. Just for fun.
+A very simple script, designed specifically for users. It takes the folder where it is and writes down file names without extensions to a file. This one is part of an administrative and billing process, but it can be easily repurposed for automatic checks of specific folders and files. Just for fun.
 
 
 
-* Lazy is not an insult, as laziness keeps the world moving. There is nothing as lazy as an engineer: they
-are paid to think ways to do the same work, with less effort: lazyness paradigm.
+* Lazy is not an insult, as laziness keeps the world moving. There is nothing as lazy as an engineer: they are paid to think ways to do the same work, with less effort: lazyness paradigm.
