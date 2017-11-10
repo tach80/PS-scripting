@@ -14,6 +14,11 @@ NAME_GETTER
 
 A very simple script, designed specifically for users. It takes the folder where it is and writes down file names without extensions to a file. This one is part of an administrative and billing process, but it can be easily repurposed for automatic checks of specific folders and files. Just for fun.
 
+PASSWORDER
+
+A simple script to create long passwords. It doesn't mean they are secure, just they are long.
+
+It creates a square matrix of user-defined size, and then it fills it with passwords, with length defined by the user. Interesting if you want to create a lot of random passwords and then choose one of them.
 
 
 * Lazy is not an insult, as laziness keeps the world moving. There is nothing as lazy as an engineer: they are paid to think ways to do the same work, with less effort: lazyness paradigm.
